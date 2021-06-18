@@ -18,3 +18,4 @@ int main(void) {
   min[0]=min[0]<min[i]?(min[0]):(min[i]);
   }
   return min[0];}
+ 
